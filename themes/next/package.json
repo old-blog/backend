@@ -27,7 +27,7 @@
   },
   "homepage": "https://theme-next.org",
   "devDependencies": {
-    "all-contributors-cli": "5.11.0",
+    "all-contributors-cli": "6.8.1",
     "coffee-script": "1.12.7",
     "gulp": "4.0.2",
     "gulp-jshint": "1.12.0",
