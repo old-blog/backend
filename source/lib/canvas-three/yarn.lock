@@ -883,8 +883,7 @@ gulp-concat@^2.6.1:
     vinyl "^2.0.0"
 
 gulp-uglify@^3.0.0:
-  version "3.0.0"
-  resolved "http://registry.npm.taobao.org/gulp-uglify/download/gulp-uglify-3.0.0.tgz#0df0331d72a0d302e3e37e109485dddf33c6d1ca"
+  version "3.0.2"
   dependencies:
     gulplog "^1.0.0"
     has-gulplog "^0.1.0"
